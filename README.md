@@ -18,8 +18,9 @@ CSS
 JavaScript
 OpenWeatherMap API
 
-### screenshot of live app
+
+### screenshot of live app:
 ![2023-06-28](https://github.com/sdavi222/weather-dashboard/assets/130076128/73881572-1126-4078-b1fa-e451dd79d4ae)
 
-### link to live app
+### link to live app:
 https://sdavi222.github.io/weather-dashboard
